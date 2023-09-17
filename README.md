@@ -1,25 +1,25 @@
-#ESTRUCTURA / ESTRUCTURE
+# ESTRUCTURA / ESTRUCTURE
 
-my_resource/
-│
-├── fxmanifest.lua
-│
-├── data/
-│   ├── handling.meta
-│   ├── vehicles.meta
-│   ├── carvariations.meta
-│   ├── carcols.meta
-│   ├── dlctext.meta
-│   ├── contentunlocks.meta
-│   ├── vehiclelayouts.meta
-│   ├── shop_vehicle.meta
-│   ├── caraddoncontentunlocks.meta
-│
-├── stream/
-│   ├── archivo1.xyz
-│   ├── archivo2.xyz
-│   └── ...
-│
+-my_resource/
+-│
+-├── fxmanifest.lua
+-│
+-├── data/
+-│   ├── handling.meta
+-│   ├── vehicles.meta
+-│   ├── carvariations.meta
+-│   ├── carcols.meta
+-│   ├── dlctext.meta
+-│   ├── contentunlocks.meta
+-│   ├── vehiclelayouts.meta
+-│   ├── shop_vehicle.meta
+-│   ├── caraddoncontentunlocks.meta
+-│
+-├── stream/
+-│   ├── archivo1.xyz
+-│   ├── archivo2.xyz
+-│   └── ...
+-│
 
 
 # Descripción de fxmanifest.lua
