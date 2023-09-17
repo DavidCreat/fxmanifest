@@ -1,27 +1,58 @@
 <details>
-<summary>Estructura de Carpetas / Folder Estructure </summary>
-
--my_resource/
--│
--├── fxmanifest.lua
--│
--├── data/
--│   ├── handling.meta
--│   ├── vehicles.meta
--│   ├── carvariations.meta
--│   ├── carcols.meta
--│   ├── dlctext.meta
--│   ├── contentunlocks.meta
--│   ├── vehiclelayouts.meta
--│   ├── shop_vehicle.meta
--│   ├── caraddoncontentunlocks.meta
--│
--├── stream/
--│   ├── archivo1.xyz
--│   ├── archivo2.xyz
--│   └── ...
--│
+<summary>Estructura de Carpetas / Folder structure </summary>
+```
+my_resource/
+├── fxmanifest.lua
+├── data/
+│   ├── handling.meta
+│   ├── vehicles.meta
+│   ├── carvariations.meta
+│   ├── carcols.meta
+│   ├── dlctext.meta
+│   ├── contentunlocks.meta
+│   ├── vehiclelayouts.meta
+│   ├── shop_vehicle.meta
+│   └── caraddoncontentunlocks.meta
+└── stream/
+    ├── <name_file>.ytd
+    ├── <name_file>.yft
+    └── ...
+```
 </details>
+
+<details>
+<summary>Estructura de Carpetas con sonidos /  Structure sounds folder </summary>
+
+my_resource/
+├── fxmanifest.lua
+├── data/
+│   ├── handling.meta
+│   ├── vehicles.meta
+│   ├── carvariations.meta
+│   ├── carcols.meta
+│   ├── dlctext.meta
+│   ├── contentunlocks.meta
+│   ├── vehiclelayouts.meta
+│   ├── shop_vehicle.meta
+│   └── caraddoncontentunlocks.meta
+└── stream/
+    ├── <name_file>.ytd
+    ├── <name_file>.yft
+    └── ...
+└── sfx/
+    ├── dlc_<name_folder>/
+        ├── <name_file>.awc
+        ├── <name_file>.awc
+└── audioconfig/
+        |── <name_file>.dat
+        ├── <name_file>.dat.nametable
+        ├── <name_file>.dat.rel
+        ├── <name_file>.dat
+        ├── ....
+    
+        
+</details>
+
 
 # Descripción de fxmanifest.lua
 
