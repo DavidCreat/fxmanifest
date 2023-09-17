@@ -22,6 +22,46 @@ Este recurso incluye los siguientes archivos relacionados con la configuración 
 - `data/shop_vehicle.meta`: Archivo de tienda de vehículos.
 - `data/caraddoncontentunlocks.meta`: Archivo de desbloqueos de contenido de vehículos adicionales.
 
+- # Información de Archivos en el Recurso
+
+Este recurso incluye los siguientes archivos relacionados con la configuración del juego:
+
+## `data/handling.meta`: Archivo de manipulación de vehículos
+
+- **Descripción:** `handling.meta` es un archivo crucial que define el comportamiento físico y las características de manejo de los vehículos en el juego. Contiene información detallada sobre la velocidad máxima, la aceleración, la tracción, la suspensión y otros atributos que afectan cómo se comportan los vehículos en el mundo de juego. Modificar este archivo permite ajustar el rendimiento de los vehículos y crear experiencias de conducción personalizadas.
+
+## `data/vehicles.meta`: Archivo de metadatos de vehículos
+
+- **Descripción:** `vehicles.meta` almacena información detallada sobre los vehículos presentes en el juego. Esto incluye datos técnicos, como la velocidad, la capacidad de asientos, la categoría del vehículo y más. Además, este archivo puede contener información sobre las modificaciones disponibles para cada vehículo, como mejoras de motor, frenos, suspensiones y personalización visual.
+
+## `data/carvariations.meta`: Archivo de variaciones de vehículos
+
+- **Descripción:** `carvariations.meta` define las variaciones de vehículos que se pueden encontrar en el juego. Estas variaciones pueden incluir diferentes modelos, configuraciones y ajustes para un vehículo en particular. Este archivo permite agregar variedad y diversidad a la población de vehículos en el mundo del juego.
+
+## `data/carcols.meta`: Archivo de colores de vehículos
+
+- **Descripción:** `carcols.meta` se encarga de definir la paleta de colores disponible para los vehículos. Permite personalizar los colores de los vehículos, lo que es importante tanto para la apariencia visual de los autos como para la identificación de vehículos personalizados por parte de los jugadores.
+
+## `data/dlctext.meta`: Archivo de texto de descripción de DLC
+
+- **Descripción:** `dlctext.meta` contiene información relacionada con el texto y las descripciones asociadas a los elementos de contenido descargable (DLC) en el juego. Esto asegura que los nombres y las descripciones de los vehículos y otros elementos sean coherentes y localizables en diferentes idiomas.
+
+## `data/contentunlocks.meta`: Archivo de desbloqueos de contenido
+
+- **Descripción:** `contentunlocks.meta` se utiliza para controlar cuándo y cómo se desbloquean ciertos elementos de contenido en el juego, como vehículos, armas o características adicionales. Este archivo es esencial para administrar la progresión y la disponibilidad de contenido a lo largo del juego.
+
+## `data/vehiclelayouts.meta`: Archivo de diseño de vehículos
+
+- **Descripción:** `vehiclelayouts.meta` define el diseño interior y las configuraciones de asientos de los vehículos en el juego. Esto es importante para la experiencia de los jugadores al abordar y usar vehículos, ya que afecta la jugabilidad y la inmersión en el mundo del juego.
+
+## `data/shop_vehicle.meta`: Archivo de tienda de vehículos
+
+- **Descripción:** `shop_vehicle.meta` está relacionado con la tienda de vehículos en el juego. Define qué vehículos están disponibles para su compra, sus precios y cualquier otra información relacionada con la adquisición de vehículos en el mundo del juego.
+
+## `data/caraddoncontentunlocks.meta`: Archivo de desbloqueos de contenido de vehículos adicionales
+
+- **Descripción:** `caraddoncontentunlocks.meta` está específicamente relacionado con el desbloqueo de contenido adicional de vehículos. Puede incluir información sobre cómo los jugadores pueden obtener vehículos extras o desbloquear características específicas de vehículos.
+
 ## Gestión de Archivos
 
 El recurso gestiona ciertos archivos de la siguiente manera:
