@@ -1,6 +1,7 @@
-# ESTRUCTURA / ESTRUCTURE
+<details>
+<summary>Estructura de Carpetas / Folder Estructure </summary>
 
-´´´-my_resource/
+-my_resource/
 -│
 -├── fxmanifest.lua
 -│
@@ -20,7 +21,7 @@
 -│   ├── archivo2.xyz
 -│   └── ...
 -│
-´´´
+</details>
 
 # Descripción de fxmanifest.lua
 
