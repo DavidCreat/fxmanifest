@@ -1,5 +1,5 @@
 # ESTRUCTURA / ESTRUCTURE
-
+´´´
 -my_resource/
 -│
 -├── fxmanifest.lua
@@ -20,7 +20,7 @@
 -│   ├── archivo2.xyz
 -│   └── ...
 -│
-
+´´´
 
 # Descripción de fxmanifest.lua
 
