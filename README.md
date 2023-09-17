@@ -1,12 +1,12 @@
 <details>
-<summary>Estructura de Carpetas / Folder structure </summary>
+<summary>Estructura de Carpetas 📂/ Folder structure 📂 </summary>
 
 ![Texto Alternativo](https://cdn.discordapp.com/attachments/1006030219318145076/1153115704321654784/image.png)
     
 </details>
 
 <details>
-<summary>Estructura de Carpetas con sonidos /  Structure sounds folder </summary>
+<summary>Estructura de Carpetas con sonidos 📂🔈/  Structure sounds folder 📂🔈</summary>
     
 ![Texto Alternativo](https://cdn.discordapp.com/attachments/1006030219318145076/1153115837914415114/image.png)
 
