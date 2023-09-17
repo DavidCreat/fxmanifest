@@ -1,26 +1,29 @@
 <details>
 <summary>Estructura de Carpetas / Folder structure </summary>
+![Texto Alternativo](https://cdn.discordapp.com/attachments/1006030219318145076/1153115704321654784/image.png)
 my_resource/
-- fxmanifest.lua
-- data/
-  - handling.meta
-  - vehicles.meta
-  - carvariations.meta
-  - carcols.meta
-  - dlctext.meta
-  - contentunlocks.meta
-  - vehiclelayouts.meta
-  - shop_vehicle.meta
-  - caraddoncontentunlocks.meta
-- stream/
-  - <name_file>.ytd
-  - <name_file>.yft
-  - ...
+├── fxmanifest.lua
+├── data/
+│   ├── handling.meta
+│   ├── vehicles.meta
+│   ├── carvariations.meta
+│   ├── carcols.meta
+│   ├── dlctext.meta
+│   ├── contentunlocks.meta
+│   ├── vehiclelayouts.meta
+│   ├── shop_vehicle.meta
+│   └── caraddoncontentunlocks.meta
+└── stream/
+    ├── <name_file>.ytd
+    ├── <name_file>.yft
+    └── ...
+    
 </details>
 
 <details>
 <summary>Estructura de Carpetas con sonidos /  Structure sounds folder </summary>
 
+![Texto Alternativo](https://cdn.discordapp.com/attachments/1006030219318145076/1153115837914415114/image.png)
 my_resource/
 ├── fxmanifest.lua
 ├── data/
