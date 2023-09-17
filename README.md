@@ -1,23 +1,21 @@
 <details>
 <summary>Estructura de Carpetas / Folder structure </summary>
-```
 my_resource/
-├── fxmanifest.lua
-├── data/
-│   ├── handling.meta
-│   ├── vehicles.meta
-│   ├── carvariations.meta
-│   ├── carcols.meta
-│   ├── dlctext.meta
-│   ├── contentunlocks.meta
-│   ├── vehiclelayouts.meta
-│   ├── shop_vehicle.meta
-│   └── caraddoncontentunlocks.meta
-└── stream/
-    ├── <name_file>.ytd
-    ├── <name_file>.yft
-    └── ...
-```
+- fxmanifest.lua
+- data/
+  - handling.meta
+  - vehicles.meta
+  - carvariations.meta
+  - carcols.meta
+  - dlctext.meta
+  - contentunlocks.meta
+  - vehiclelayouts.meta
+  - shop_vehicle.meta
+  - caraddoncontentunlocks.meta
+- stream/
+  - <name_file>.ytd
+  - <name_file>.yft
+  - ...
 </details>
 
 <details>
