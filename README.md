@@ -1,6 +1,6 @@
 # ESTRUCTURA / ESTRUCTURE
-´´´
--my_resource/
+
+´´´-my_resource/
 -│
 -├── fxmanifest.lua
 -│
