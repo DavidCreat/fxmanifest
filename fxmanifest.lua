@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'template full by: eas1_music'
+description 'template full by: eas1_music/DavidCreat'
 
 files {
     'data/handling.meta',
