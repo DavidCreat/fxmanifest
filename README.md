@@ -47,7 +47,7 @@ This file is the `fxmanifest.lua` used in a FIVEM resource. Below, we describe t
 
 ## Archivos Incluidos
 
-Este recurso incluye los siguientes archivos relacionados con la configuración del juego:
+Este recurso incluye los siguientes archivos relacionados con la configuración del vehiculo:
 
 - `data/handling.meta`: Archivo de manipulación de vehículos.
 - `data/vehicles.meta`: Archivo de metadatos de vehículos.
@@ -61,7 +61,7 @@ Este recurso incluye los siguientes archivos relacionados con la configuración 
 
 - ## Included Files
 
-This resource includes the following files related to the game's configuration:
+This resource includes the following files related to the car configuration:
 
 - `data/handling.meta`: Vehicle handling file.
 - `data/vehicles.meta`: Vehicle metadata file.
